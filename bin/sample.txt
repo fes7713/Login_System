@@ -1,0 +1,17 @@
+Keita Nakashima
+Bank account Mitsuisumitomo : 3029 Branch, Accessed June 20th, Deposited 200,000 in the account.
+Ammount : 400,000
+Secret Key code: 200405830, AJo92-4KIAIdw
+Address : 220498050AsreDF
+
+John Many
+Bank account: Muzuho, 2038 Branch, Accessed Aug 2nd, Deposited 10,000, Withdraw 1,000
+Money Transaction sent to Ken Tanaka 20,000
+Secret Key code: 209840lfd, Adeilckioe30
+Address: 22904loP
+
+Ken Tanaka
+Banka account: Mizuho, Accessed Aug 3rd, Withdraw 20,000
+Money transaction received from John Many 20,000
+Secret Key code: 20904klcape, Aoelpr0993
+Address: 20480kfceA
